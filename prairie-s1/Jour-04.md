@@ -5,9 +5,9 @@
 ### Jeudi 02/12/2021
 
 
-* [ ] Création de compte Github
-* [ ] Installation et configuration de Git
-* [ ] Comprendre le versionning
+* [X] Création de compte Github
+* [X] Installation et configuration de Git
+* [X] Comprendre le versionning
 * [ ] Comprendre le fonctionnement de Git
   * [ ] Comprendre le staging de Git
   * [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
@@ -20,6 +20,6 @@
     * [ ] git clone
     * [ ] git remote
 * [ ] Faire le parcours Git-it (Nodeschool.io)
-* [ ] Faire ses premiers commits sur les daily objectives
-* [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
+* [X] Faire ses premiers commits sur les daily objectives
+* [X] Faire ses premiers pushs des daily-objectives sur son compte Github
 
